@@ -163,10 +163,11 @@
     font-weight: lighter;
     text-align: center;
     padding: 1rem;
-    cursor: pointer;
+    
 }
 .option1>span{
     color:#d40f9f;
+    cursor: pointer;
 }
 
 .tnc{
@@ -174,8 +175,9 @@
     font-weight: lighter;
     text-align: center;
     padding: 0.5rem; 
-    cursor: pointer;
+   
 }
 .tnc>span{
     color:#d40f9f;
+     cursor: pointer;
 }
